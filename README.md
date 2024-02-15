@@ -26,7 +26,7 @@ To get started with the project, you need to follow these steps:
 # Usage
 Once the repository is cloned and the dependencies are installed, you can proceed with running the PCA implementation script. Follow these steps:
 
- * Run the PCA implementation script:
+ * Run the PCA implementation script: Advanced Cancer Center PCA.ipynb
  * The script will perform PCA on the cancer dataset, reduce it into 2 PCA components, and display the results.
 
 # NOTE
