@@ -19,7 +19,7 @@
 # Installation
 To get started with the project, you need to follow these steps:
 
- * Clone the repository to your local machine:
+ * Clone the repository to your local machine: https://github.com/PAUL-byte-spec/Anderson-CC---PCA.git
  * Navigate to the project directory: cd cancer-center-referral-model
  * Install the required Python packages
 
